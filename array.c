@@ -1,7 +1,7 @@
-/*Klavyeden -1 girilene kadar girilen sayıları diziye aktaran, ardından her elemanın karesini
-ekrana basan programı yazınız. (Dizi eleman sayısı max 10 olacaktır.)*/
+/*Klavyeden -1 girilene kadar girilen sayÄ±larÄ± diziye aktaran, ardÄ±ndan her elemanÄ±n karesini
+ekrana basan programÄ± yazÄ±nÄ±z. (Dizi eleman sayÄ±sÄ± max 10 olacaktÄ±r.)*/
 #include <stdio.h>
-#define N 10
+#define N 20
 int main(){
 	int dizi[N];
 	int i;
